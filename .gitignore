@@ -1,1 +1,4 @@
+# Build outputs
+/build/
 *.exe
+*.o
